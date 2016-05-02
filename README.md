@@ -1,13 +1,13 @@
 # CmpE561-Assignment 2
-I worked on macbook osx 10.10.3 and Eclipse luna 4.4.1
+-->I worked on macbook osx 10.10.3 and Eclipse luna 4.4.1
 
-I added an executable jar file into the repository.
+-->I added an executable jar file into the repository.
 
-I also added the copy of the report.
+-->I also added the copy of the report.
 
-The output file is created in the directory in output.txt file (not in the "metu_sabanci_cmpe_561/output.txt" because of the path splitter difference in windows and mac)
+-->The output file is created in the directory in output.txt file (not in the "metu_sabanci_cmpe_561/output.txt" because of the path splitter difference in windows and mac)
 
-=== This is the example of system i/o=== 
+======= This is the example of system i/o ======= 
 
 Enter the path of training file.. 
 
@@ -26,7 +26,7 @@ Enter the path of file gold standard file
 metu_sabanci_cmpe_561/validation/turkish_metu_sabanci_val.conll
 
 
-=== Output ===
+======= Output =======
 
 The accuracy of CPOSTAG is 0.7947368421052632
 
