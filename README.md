@@ -7,23 +7,34 @@
 
 -->The output file is created in the directory in output.txt file (not in the "metu_sabanci_cmpe_561/output.txt" because of the path splitter difference in windows and mac)
 
+To run the executable jar on command line:
+
+    java -jar CmpE561.jar
+  
+To run the code itself from command line:
+  
+    javac -d bin/ -cp src src/cmpe561project2/Main.java
+  
+    java -cp bin cmpe561project2.Main
+
+
 ======= This is the example of system i/o ======= 
 
 Enter the path of training file.. 
 
-metu_sabanci_cmpe_561/train/turkish_metu_sabanci_train.conll
+    metu_sabanci_cmpe_561/train/turkish_metu_sabanci_train.conll
 
 Enter the path of test file.. 
 
-metu_sabanci_cmpe_561/validation/turkish_metu_sabanci_val.conll
+    metu_sabanci_cmpe_561/validation/turkish_metu_sabanci_val.conll
 
 CPOSTAG or POSTAG
 
-POSTAG
+    POSTAG
 
 Enter the path of file gold standard file
 
-metu_sabanci_cmpe_561/validation/turkish_metu_sabanci_val.conll
+    metu_sabanci_cmpe_561/validation/turkish_metu_sabanci_val.conll
 
 
 ======= Output =======
