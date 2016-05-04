@@ -39,38 +39,38 @@ Enter the path of file gold standard file
 
 ======= Output =======
 
-The accuracy of CPOSTAG is 0.7947368421052632
+    The accuracy of CPOSTAG is 0.7947368421052632
 
-------------------Confusion Matrix---------------
+        ------------------Confusion Matrix---------------
 
-null Adj Adv Conj Det Dup Interj Noun Num Postp Pron Punc Ques Verb Zero 
+        null Adj Adv Conj Det Dup Interj Noun Num Postp Pron Punc Ques Verb Zero 
 
-Adj 0 53 3 109 0 0 30 5 7 2 0 0 27 0 
+        Adj 0 53 3 109 0 0 30 5 7 2 0 0 27 0 
 
-Adv 0 0 0 0 0 0 3 0 18 0 0 0 0 0 
+        Adv 0 0 0 0 0 0 3 0 18 0 0 0 0 0 
 
-Conj 0 0 0 0 0 0 2 0 0 0 0 0 3 0 
+        Conj 0 0 0 0 0 0 2 0 0 0 0 0 3 0 
 
-Det 0 0 0 0 0 0 0 0 0 5 0 0 0 0 
+        Det 0 0 0 0 0 0 0 0 0 5 0 0 0 0 
 
-Dup 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+        Dup 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 
-Interj 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+        Interj 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
 
-Noun 126 45 0 0 0 0 0 9 1 2 0 0 244 0 
+        Noun 126 45 0 0 0 0 0 9 1 2 0 0 244 0 
 
-Num 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+        Num 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 
-Postp 0 0 0 0 0 0 3 0 0 0 0 0 0 0 
+        Postp 0 0 0 0 0 0 3 0 0 0 0 0 0 0 
 
-Pron 0 0 0 0 0 0 5 0 0 0 0 0 0 0 
+        Pron 0 0 0 0 0 0 5 0 0 0 0 0 0 0 
 
-Punc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+        Punc 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 
-Ques 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+        Ques 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 
-Verb 3 0 0 0 0 0 10 1 19 5 0 0 0 0 
+        Verb 3 0 0 0 0 0 10 1 19 5 0 0 0 0 
 
-Zero 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+        Zero 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 
 
